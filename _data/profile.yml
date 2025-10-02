@@ -14,12 +14,14 @@ linkedin: shengji-jin-060993328
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a Master's student in Health Informatics at Cornell University and a Research Assistant at the UCF Center for Research in Computer Vision (CRCV), 
-    working with Dr. Chen Chen. My research focuses on developing efficient video understanding systems and medical image analysis.
-  </p> <p>
-    My recent work includes the A.I.R. framework for adaptive frame selection in video question answering, which achieves state-of-the-art performance 
-    while reducing computational costs by ~74%. I also contributed to developing HFA-UNet for thyroid nodule segmentation, achieving significant improvements 
-    in medical imaging benchmarks.
+    I am a recent MS graduate in Health Informatics from Cornell University (GPA: 4.03/4.30, Academic Excellence) 
+    and currently serve as a Research Assistant at UCF's Center for Research in Computer Vision under Dr. Chen Chen. 
+    My educational background combines health informatics with computer science and AI from my undergraduate studies at UNNC.
+  </p>
+  <p>
+    My research focuses on bridging computer vision and healthcare applications, with particular interests in 
+    efficient video understanding, medical image segmentation, and multimodal learning. I aim to develop practical AI systems 
+    that balance computational efficiency with high performance for real-world deployment in both clinical and general vision tasks.
   </p>
 portrait_url: /assets/images/photos/shengji.jpg
 portrait_caption: "# Remove or update this caption as needed"

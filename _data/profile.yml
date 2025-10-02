@@ -30,15 +30,15 @@ education:
     date: Sep. 2020 - Jun. 2024
 experience:
   - name: UCF Center for Research in Computer Vision
-    logo: /assets/images/badges/ucf_logo.png
+    logo: /assets/images/badges/ucf_icon.png
     position: "Research Assistant (Advisor: Dr. Chen Chen)"
     date: May. 2025 - Present
   - name: X_PLORE Lab
-    logo: /assets/images/badges/xplore_logo.png
+    logo: /assets/images/badges/xplore.png
     position: Research Assistant
     date: Nov. 2024 - Present
   - name: Lecangs Information Technology Co., Ltd
-    logo: /assets/images/badges/lecangs_logo.png
+    logo: /assets/images/badges/lecangs_icon.png
     position: R&D Intern
     date: Jul. 2023 - Aug. 2023
 awards:

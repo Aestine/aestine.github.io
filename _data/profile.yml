@@ -2,7 +2,7 @@ primary_name: Shengji Jin
 secondary_name: ""
 navbar_name: Shengji Jin
 positions:
-  - logo: /assets/images/badges/cornell_logo.png
+  - logo: /assets/images/badges/cornell_icon.png
     name: MS Student in Health Informatics, Cornell University
   - name: Research Assistant, UCF Center for Research in Computer Vision (CRCV)
 email: shj4015@med.cornell.edu

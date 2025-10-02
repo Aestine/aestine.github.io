@@ -1,63 +1,61 @@
-primary_name: "Shengji Jin"
+primary_name: "Your Name"
 secondary_name: ""
-navbar_name: "Shengji Jin"
+navbar_name: "Your Name"
+
 positions:
-- logo: /assets/images/badges/cornell_logo.png  # You'll need to add Cornell's logo
-  name: MS Student in Health Informatics, Cornell University
-- name: Research Assistant, UCF Center for Research in Computer Vision (CRCV)
-email: "shj4015@med.cornell.edu"
-# cv_link: /assets/pdfs/Shengji_Jin_CV.pdf  # Add your CV file path when ready
-# gscholar: your_google_scholar_id  # Add when you have publications indexed
-# github: your_github_id  # Add your GitHub username if you have one
-# twitter: your_twitter_id  # Add if you have Twitter
-# linkedin: shengji-jin  # Add your LinkedIn ID if you have one
-# orcid: 0000-0000-0000-0000  # Add your ORCID if you have one
+- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+  name: Position 1 with logo
+- name: Position 2 without logo
+
+
+email: "your@email.com"
+# cv_link: link-to-your-cv-file
+gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: your_github_id
+twitter: your_twitter_id  # Do not include the '@' symbol
+# wechat_qrcode: /assets/images/etc/wechat.jpg
+# wechat_prompt: >-
+#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+# linkedin: your-linked-in-id
+# orcid: 0000-0000-0000-0000
+
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a Master's student in Health Informatics at Cornell University and a Research Assistant at the UCF Center for Research in Computer Vision (CRCV), 
-    working with Dr. Chen Chen. My research focuses on developing efficient video understanding systems and medical image analysis.
+    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
   </p>
   <p>
-    My recent work includes the A.I.R. framework for adaptive frame selection in video question answering, which achieves state-of-the-art performance 
-    while reducing computational costs by ~74%. I also contributed to developing HFA-UNet for thyroid nodule segmentation, achieving significant improvements 
-    in medical imaging benchmarks.
+    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
+    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
+    as well as being common in domestic longhair and domestic shorthair cats.
   </p>
-portrait_url: /assets/images/photos/shengji_portrait.jpg  # Add your photo
+
+portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
-  # Remove or update this caption as needed
+  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+
 education:
-- name: Cornell University
-  logo: /assets/images/badges/cornell_logo.png
+- name: Massachusetts Institute of Technology
+  logo: /assets/images/badges/MIT_Social_circle.png
   position: >- 
-    MS in Health Informatics <br/>
-    GPA: 4.03/4.30 (Certificate of Academic Excellence)
-  date: Sep. 2024 - Aug. 2025
-- name: University of Nottingham Ningbo China
-  logo: /assets/images/badges/unnc_logo.png
-  position: >-
-    BS in Computer Science with Artificial Intelligence <br/>
-    GPA: 3.60/4.00
-  date: Sep. 2020 - Jun. 2024
-experience:
-- name: UCF Center for Research in Computer Vision
-  logo: /assets/images/badges/ucf_logo.png
-  position: Research Assistant (Advisor: Dr. Chen Chen)
-  date: May. 2025 - Present
-- name: X_PLORE Lab
-  logo: /assets/images/badges/xplore_logo.png
-  position: Research Assistant
-  date: Nov. 2024 - Present
-- name: Lecangs Information Technology Co., Ltd
-  logo: /assets/images/badges/lecangs_logo.png
-  position: R&D Intern
-  date: Jul. 2023 - Aug. 2023
+    Department of Electrical Engineering and Computer Science <br/>
+    Ph.D. Student
+  date: Sep. 2024 - present
+- name: Peking University
+  logo: /assets/images/badges/PKU_red.png
+  position: B.S. in Computer Science
+  date: Sep. 2019 - Jul. 2021
+
+# experience:
+# - name: Peking University
+#   logo: /assets/images/badges/PKU_red.png
+#   position: Research Intern
+#   date: Sep. 2019 - Jul. 2021
+
 awards:
-- name: Certificate of Academic Excellence, Cornell University
-  date: Jul. 2025
-- name: Individual Dream Scholarship of UNNC
-  date: May. 2022 & May. 2023
-- name: 6th place in men's double, Zhejiang 16th University Games badminton competition
-  date: Apr. 2023
-- name: 7th in men's double, Zhejiang University Badminton Championship
-  date: May. 2022
+- name: Award Name 2
+  date: 2024
+- name: Award Name 1 
+  date: 2021
+- name: A quick brown fox jumps over the lazy dog and runs away award
+  date: 2021

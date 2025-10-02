@@ -2,7 +2,7 @@
 title:          "A.I.R.: Adaptive, Iterative, and Reasoning-based Frame Selection for Video Question Answering"
 date:           2025-10-01 00:01:00 +0800
 selected:       true
-pub:            "International Conference on Learning Representations (ICLR) 2026"
+pub:            "International Conference on Learning Representations (ICLR)"
 pub_date:       "2026"
 # semantic_scholar_id: 待论文发表后添加
 abstract: >-
@@ -16,7 +16,7 @@ authors:
   - Jun Wang (WCM)
   - Chen Chen# (UCF)
 links:
-  Paper: "#"  # 等论文录用后更新
+  # Paper: "#"  # 等论文录用后更新
   arXiv: "#"  # 等arXiv链接可用后更新
   Code: "#"  # 替换为实际GitHub链接
   Project: "https://aestine.github.io/AIR.github.io/#"  # 如果有项目页面

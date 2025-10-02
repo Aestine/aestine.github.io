@@ -16,7 +16,7 @@ short_bio: >-
     while reducing computational costs by ~74%. I also contributed to developing HFA-UNet for thyroid nodule segmentation, achieving significant improvements 
     in medical imaging benchmarks.
   </p>
-portrait_url: /assets/images/photos/shengji_portrait.jpg
+portrait_url: /assets/images/photos/shengji.jpg
 portrait_caption: "# Remove or update this caption as needed"
 education:
   - name: Cornell University

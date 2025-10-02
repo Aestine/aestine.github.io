@@ -1,22 +1,28 @@
-"Your Name":
+"Shengji Jin":
   bold: true
 
-"Robert White":
-  url: https://www.google.com/?q=Robert+White
+# 其他作者示例
+Yuanhao Zou:
+  name: Yuanhao Zou
+  url: "https://alexco1d.github.io/"
+  bold: false
 
-"Charles Green (MIT)":
-  name: Charles Green
-  url: https://www.google.com/?q=Charles+Green+MIT
+Andong Deng:
+  name: Andong Deng
+  url: "https://dengandong.github.io/"
+  bold: false
 
-"Charles Green (Stanford)":
-  name: Charles Green
-  url: https://www.google.com/?q=Charles+Green+Stanford
+Youpeng Zhao:
+  name: Youpeng Zhao
+  url: "https://kennethzhao24.github.io/"
+  bold: false
 
-"Garrett Harris":
-  url: https://www.google.com/?q=Garrett+Harris
+Jun Wang:
+  name: Jun Wang
+  url: "https://www.cass.eecs.ucf.edu/jun-wang/"
+  bold: false
 
-"James Wang":
-  url: https://www.google.com/?q=James+Wang
-
-"John Doe":
-  url: https://www.google.com/?q=John+Doe
+Chen Chen:
+  name: Chen Chen
+  url: "https://www.crcv.ucf.edu/chenchen/"
+  bold: false

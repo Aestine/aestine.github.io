@@ -1,28 +1,42 @@
 "Shengji Jin":
   bold: true
 
-# 其他作者示例
-Yuanhao Zou:
+"Yuanhao Zou":
+  url: https://alexco1d.github.io/
+
+"Andong Deng":
+  url: https://dengandong.github.io/
+
+"Youpeng Zhao":
+  url: https://kennethzhao24.github.io/
+
+"Jun Wang":
+  url: https://www.cass.eecs.ucf.edu/jun-wang/
+
+"Chen Chen":
+  url: https://www.crcv.ucf.edu/chenchen/
+
+# 如果使用带括号的格式
+"Yuanhao Zou (UCF)":
   name: Yuanhao Zou
-  url: "https://alexco1d.github.io/"
-  bold: false
+  url: https://alexco1d.github.io/
+  
+"Shengji Jin (Cornell/UCF)":
+  name: Shengji Jin
+  bold: true
 
-Andong Deng:
+"Andong Deng (UCF)":
   name: Andong Deng
-  url: "https://dengandong.github.io/"
-  bold: false
+  url: https://dengandong.github.io/
 
-Youpeng Zhao:
+"Youpeng Zhao (UCF)":
   name: Youpeng Zhao
-  url: "https://kennethzhao24.github.io/"
-  bold: false
+  url: https://kennethzhao24.github.io/
 
-Jun Wang:
+"Jun Wang (WCM)":
   name: Jun Wang
-  url: "https://www.cass.eecs.ucf.edu/jun-wang/"
-  bold: false
+  url: https://www.cass.eecs.ucf.edu/jun-wang/
 
-Chen Chen:
+"Chen Chen (UCF)":
   name: Chen Chen
-  url: "https://www.crcv.ucf.edu/chenchen/"
-  bold: false
+  url: https://www.crcv.ucf.edu/chenchen/

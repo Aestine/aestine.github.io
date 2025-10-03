@@ -22,6 +22,6 @@ authors:
   - Yi Wang
   - Jinghua Zhang
 links:
-  Paper: "#"  # 更新为实际论文链接
+  Paper: "https://www.sciencedirect.com/science/article/pii/S0950705125012869"  # 更新为实际论文链接
   Code: "#"  # 如果有代码仓库
 ---

@@ -7,7 +7,7 @@ pub_date:       "2026"
 # semantic_scholar_id: 待论文发表后添加
 abstract: >-
   We propose A.I.R., a training-free framework for adaptive frame selection in Video Question Answering that addresses the critical trade-off between lightweight models' poor performance and VLM-based methods' prohibitive computational costs. Our approach achieves state-of-the-art performance on multiple benchmarks (Video-MME, MLVU, LVB, EgoSchema, NextQA) while reducing inference time by ~74% compared to conventional VLM-based analysis.
-cover:          /assets/images/covers/air_cover.jpg
+cover:          /assets/images/covers/arch.png
 authors:
   - Yuanhao Zou (UCF)*
   - Shengji Jin (Cornell/UCF)*

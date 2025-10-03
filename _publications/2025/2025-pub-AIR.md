@@ -2,7 +2,7 @@
 title:          "A.I.R.: Adaptive, Iterative, and Reasoning-based Frame Selection for Video Question Answering"
 date:           2025-10-01 00:01:00 +0800
 selected:       true
-pub:            "International Conference on Learning Representations (ICLR)"
+pub:            "Submitted to International Conference on Learning Representations (ICLR)"
 pub_date:       "2026"
 # semantic_scholar_id: 待论文发表后添加
 abstract: >-

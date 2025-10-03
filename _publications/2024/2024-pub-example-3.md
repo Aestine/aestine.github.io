@@ -8,20 +8,16 @@ abstract: >-
   We propose HFA-UNet, a hybrid Transformer-based segmentation model featuring a full-attention multi-scale fusion stage (FA-MSF) that uses atrous convolutions to gather multi-scale context and integrates CBAM to enhance boundary features. Our adaptive skip connection mechanism dynamically adjusts based on input image resolution, achieving state-of-the-art performance across multiple public datasets (DDTI, TN3K, Stanford Cine-Clip) with Dice score improvements up to 2.36% and mIoU up to 4.88%.
 cover:          /assets/images/covers/hfaunet_cover.jpg
 authors:
-  - Yao Li
+  - Yue Li
   - Yuanhao Zou
   - Xiangjian He
-  - Xuan Qing
-  - Mei Liu
+  - Qing Xu
+  - Ming Liu
   - Shengji Jin
-  - Qi Zhang
-  - Yin Tian
-  - Wei Xia
-  - Li Shi
-  - Michael M. He
-  - Yi Wang
-  - Jinghua Zhang
+  - Qian Zhang
+  - Maggie M He
+  - Jian Zhang
 links:
   Paper: "https://www.sciencedirect.com/science/article/pii/S0950705125012869"  # 更新为实际论文链接
-  Code: "#"  # 如果有代码仓库
+  # Code: "#"  # 如果有代码仓库
 ---

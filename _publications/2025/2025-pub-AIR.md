@@ -17,7 +17,7 @@ authors:
   - Chen Chen# (UCF)
 links:
   # Paper: "#"  # 等论文录用后更新
-  # arXiv: "#"  # 等arXiv链接可用后更新
+  arXiv: "https://arxiv.org/abs/2510.04428"  # 等arXiv链接可用后更新
   # Code: "#"  # 替换为实际GitHub链接
-  Project: "https://aestine.github.io/AIR.github.io/#"  # 如果有项目页面
+  Project: "https://ucf-air.github.io/"  # 如果有项目页面
 ---
